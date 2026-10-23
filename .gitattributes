@@ -1,0 +1,2 @@
+# Published track-record files must stay byte-identical so their SHA-256 can be verified.
+track_record/** -text
